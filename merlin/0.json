@@ -1,0 +1,48 @@
+{
+  "spec": "rapp/1",
+  "kind": "merlin.cycle",
+  "stream_id": "merlin:@kody-w/dogg-merlin",
+  "seq": 0,
+  "utc": "2026-09-26T02:32:53.824Z",
+  "payload": {
+    "tick": 1293,
+    "tick_frame": "4b5b64e6114d627ca3c2e318c6834f4fbc1f57abbce87d22e9b873fada007579",
+    "tick_utc": "2026-09-26T02:17:02.321Z",
+    "organism": "rappid:@rapp-projects/merlin:5294a6dee9823e8e840a0dabe510de111833dc11f34963ee41631840b28d7dc7",
+    "cycle": 1,
+    "woke_utc": "2026-09-26T02:18:37.983Z",
+    "territory": {
+      "repo": "kody-w/dogg",
+      "branch": "main",
+      "base": "5024d352f5d5a553ac1acb8e0f9035e6298f9be1"
+    },
+    "verdict": "accepted",
+    "proposal": {
+      "subject": "dogg: Check tick references against sealed spine epochs in gate",
+      "commit": "c3649615e395d28204c7b86d7be747d770387d5e",
+      "files": [
+        "tests/test_chants.py",
+        "tools/dogg.py"
+      ]
+    },
+    "immune": {
+      "passed": 7,
+      "total": 7
+    },
+    "mind": {
+      "model": "claude-opus-5.5",
+      "ai_credits": "211.01"
+    },
+    "elapsed_seconds": 883,
+    "rechecked": [],
+    "organism_frame": {
+      "seq": 15,
+      "frame_hash": "78fb6f8924c7c12c29a3cde912313e7dd3128e0f1f5c8562a1f3aef63938ca07"
+    }
+  },
+  "payload_hash": "e057b8e6a8a90d8db9e5e0d617e693f88486f83951654014221e9ac8b132c1ae",
+  "prev": null,
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "ae6e8c7dd48c6325c1ecf10970b4f77132ecec77cbe1140c52100a02e4daf307"
+}
