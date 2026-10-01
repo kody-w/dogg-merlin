@@ -1,8 +1,8 @@
 {
-  "count": 5,
+  "count": 6,
   "sealed_epochs": 0,
   "epoch_size": 288,
   "stream_id": "merlin:@kody-w/dogg-merlin",
-  "head_frame": "a76905d03bbc55baf6c6c6bb3e306cbb4d0b59ddb012d6f90e98de24cc63fffe",
-  "updated": "2026-09-30T05:00:06.355Z"
+  "head_frame": "c17d4607253e258e470c548be17a5e2369b0f65b42a2b497aba95a73d99e0a8f",
+  "updated": "2026-10-01T09:57:26.881Z"
 }
